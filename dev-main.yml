@@ -2,7 +2,11 @@ profile : dev-config
 dispacher:
   view:
     jsp:
+<<<<<<< HEAD
       prefix: /WEB-INF/view/
+=======
+      prefix: /WEB-INF/view
+>>>>>>> 27e9f054c2620ae2b3153b456838ae55cb7aa7eb
       suffix: .jsp
 text:
   head: DEV
