@@ -1,4 +1,9 @@
 profile : dev-config
+dispacher:
+  view:
+    jsp:
+      prefix: /WEB-INF/view
+      suffix: .jsp
 text:
   head: DEV
   body: Hellow!!!!
